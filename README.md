@@ -71,7 +71,7 @@ curl -X POST "http://localhost:8000/query" \
 
 Run the interactive CLI:
 ```bash
-python rag.py
+python main.py
 ```
 
 Type your questions at the prompt and receive answers based on your documents.
